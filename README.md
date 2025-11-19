@@ -1,7 +1,5 @@
 
-  # Website Structure Overview
-
-  This is a code bundle for Website Structure Overview. The original project is available at https://www.figma.com/design/Gumow33Z4HSiWJXTt8Ynua/Website-Structure-Overview.
+ 
 
   ## Running the code
 
